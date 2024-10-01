@@ -38,11 +38,8 @@ Ensure you have Python installed on your system. You can download it from [pytho
     ```bash
     pip install mysql-connector-python
     ```
-2. Clone the repository:
-    ```bash
-    git clone https://github.com/mohitprajapat2001/Python-Bank-Project
-    ```
-3. Navigate to the project directory:
+
+2. Navigate to the project directory:
     ```bash
     cd Python-Bank-Project
     ```
@@ -102,9 +99,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries or issues, please reach out to us through our social media channels:
 
-- [YouTube](https://www.youtube.com/@itsmohitcodes)
-- [Telegram](https://t.me/itsmohitcodes)
-- [Instagram](https://www.instagram.com/itsmohit.codes)
-- [LinkedIn](https://www.linkedin.com/in/itsmohitprajapat/)
+
+
+- [LinkedIn](https://www.linkedin.com/in/oopsankit)
 
 Thank you for using the Bank Management System! We hope it helps you manage your bank accounts effectively.
